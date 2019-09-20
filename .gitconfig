@@ -1,0 +1,7 @@
+[user]
+	email = mark.a.bonicillo@gmail.com
+	name = Mark Bonicillo
+[core]
+	editor = vim
+[alias]
+	pull = pull --rebase
